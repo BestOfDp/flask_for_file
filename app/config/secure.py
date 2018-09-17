@@ -1,0 +1,12 @@
+JSON_AS_ASCII = False
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:xxxxxx/file'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
+
+SECRET_KEY = 'cccc'
+JSON_SORT_KEYS = True
+MAIL_SERVER = 'smtp.qq.com'
+MAIL_PORT = 465
+MAIL_USE_SSL = True
+MAIL_USE_TSL = False
+MAIL_USERNAME = 'xxx@qq.com'
+MAIL_PASSWORD = 'xxx'
